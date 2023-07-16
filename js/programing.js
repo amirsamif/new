@@ -99,4 +99,3 @@ function resetData (index){
 
 
 
-localStorage.clear()
